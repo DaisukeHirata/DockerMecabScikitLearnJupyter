@@ -68,4 +68,4 @@ RUN yum -y update \
     && yum -y install bzip2 \
     && pip install jupyter \
     ## scikit-learn
-    && pip scikit-learn numpy scipy
+    && pip install scikit-learn numpy scipy
