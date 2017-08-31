@@ -1,4 +1,4 @@
-# Docker MeCab Neologd Cabocha sklearn jupyter-notebook
+# Docker MeCab Neologd Cabocha sklearn jupyter-notebook pandas
 
 ## setup
 
